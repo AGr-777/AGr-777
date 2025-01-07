@@ -6,8 +6,7 @@
 
 💞️ I’m looking to collaborate on beginner-friendly open-source projects and web development practice tasks.
 
-📫 How to reach me [Add your preferred contact or GitHub profile link here].
-
+📫 How to reach me github.com/AGr-777
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I’m called 'Akku' at home, and I enjoy finding creative ways to solve problems in code!
